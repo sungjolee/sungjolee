@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=LeeSungJo&clolor)
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&text=Lee%20Sung%20Jo&clolor&clolor)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
