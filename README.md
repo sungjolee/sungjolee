@@ -27,9 +27,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sungjolee)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=sungjolee&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjolee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungjolee)
 
+![sungjolee's github stats](https://github-readme-stats.vercel.app/api?username=sungjolee&show_icons=true)
+[![sungjolee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sungjolee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sungjolee)
+<br>
 
 
 
