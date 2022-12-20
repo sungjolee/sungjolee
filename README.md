@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=18&height=300&section=header&text=Lee%20Sung%20Jo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=19&height=300&section=header&text=Lee%20Sung%20Jo&fontSize=70)
 <br>
 <h3 align="center">🛠 Stack 🛠</h3>
 
